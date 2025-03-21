@@ -1,0 +1,7 @@
+{
+  "name": "@flow/vscode-types",
+  "version": "1.0.0",
+  "types": "./types/vscode/vscode.d.ts",
+  "description": "Flow type definitions",
+  "license": "MIT"
+}
